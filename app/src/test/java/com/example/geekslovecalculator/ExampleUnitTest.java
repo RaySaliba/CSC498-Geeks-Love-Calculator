@@ -1,4 +1,4 @@
-package com.example.lovecalculator;
+package com.example.geekslovecalculator;
 
 import org.junit.Test;
 
